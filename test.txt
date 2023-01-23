@@ -1,2 +1,3 @@
 this is a test txt file
 this is forth line
+this line was modified by remote development platform vscode remote
